@@ -10,4 +10,4 @@ resources:
   - release.yaml
   - mysqlrelease.yaml
   - sealedsecret.yaml
-  - alerts.yaml
+  
