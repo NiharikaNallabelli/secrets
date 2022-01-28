@@ -12,5 +12,5 @@ spec:
     data: null
     metadata:
       creationTimestamp: null
-      name: basic-auth
+      name: basic-auth           
       namespace: default
