@@ -10,5 +10,5 @@ spec:
   eventSources:
     - kind: GitRepository
       name: '*'
-    - kind: Kustomization
+    - kind: Kustomization     
       name: '*'
